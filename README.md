@@ -3,11 +3,10 @@
 ## About me
 I am a frontend developer on React|Angular. 
 
-I have only educational experience, so currently I'm looking for any job/internship opportunities in Almaty or remote. 
+I have only educational experience, so currently I'm looking for any job/internship opportunities in Almaty or remote. Also, I'm ready to do any test tasks to prove my hard skills. 
 
-Feel free to contact me via Telegram, so I can show you my CV and we can : t.me/hunnidbands100
+Feel free to contact me via Telegram, so we can get to know each other better: t.me/hunnidbands100
 
-I'm ready to do any test tasks to prove my hard skills. 
 
 In my pet projects, I've worked with: 
 - TypeScript
