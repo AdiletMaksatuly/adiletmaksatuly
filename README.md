@@ -1,16 +1,25 @@
-### Hi there 👋
+### hello
 
-<!--
-**AdiletMaksatuly/adiletmaksatuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am a frontend developer on React|Angular. 
 
-Here are some ideas to get you started:
+I have only educational experience, so currently I'm looking for any job/internship opportunities in Almaty or remote. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact me via Telegram, so I can show you my CV and we can : t.me/hunnidbands100
+
+I'm ready to do any test tasks to prove my hard skills. 
+
+In my pet projects, I've worked with: 
+- TypeScript
+- React, Redux
+- Material UI, Ant Design, Chakra UI
+- Angular, NgRx
+- Angular Material
+- RxJS
+- Firebase
+- Git
+
+## Contacts
+Telegram: https://t.me/hunnidbands100
+
+LinkedIn: https://www.linkedin.com/in/adilet-maksatuly-a93707237/
